@@ -1,13 +1,20 @@
 body{
     font-family: 'Poppins', sans-serif;
-   
-}
+    display: flex;
+    flex-direction: column;
+    }
+
+
 .bg-color{
     background-color: #264653;
 }
 
 .card_header{
     background-color: rgba(221, 208, 208, 0.452);
+}
+
+main{
+    min-height: 100vh;
 }
 
 .box{
@@ -20,7 +27,7 @@ body{
 /* .prgress-bar  */
 
 
-.about{
-    background-color: antiquewhite;
+footer{
+    margin-top: auto;
 }
 
