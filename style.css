@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.bg-color{
+    background-color: #264653;
+}
+
+.card_header{
+    background-color: rgba(221, 208, 208, 0.452);
+}
+
+.box{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/* .prgress-bar  */
+
+
+.about{
+    background-color: antiquewhite;
+}
