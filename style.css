@@ -9,6 +9,10 @@ body{
     background-color: #264653;
 }
 
+.nav-color{
+   background-color: rgba(240, 248, 255, 0.747);
+}
+
 .card_header{
     background-color: rgba(221, 208, 208, 0.452);
 }
