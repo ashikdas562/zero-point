@@ -11,6 +11,7 @@ body{
 
 .nav-color{
    background-color: rgba(240, 248, 255, 0.747);
+   background-image: url(images/shapes/Group\ 8447.png);
 }
 
 .card_header{
@@ -21,6 +22,8 @@ main{
     min-height: 100vh;
 }
 
+
+
 .box{
     position: relative;
     width: 200px;
@@ -28,8 +31,13 @@ main{
     border-radius: 50%;
 }
 
+
+
 /* .prgress-bar  */
 
+.about{
+    background-image: url(images/shapes/Group\ 8446.png);
+}
 
 footer{
     margin-top: auto;
